@@ -1,4 +1,4 @@
-# mediaLab2
+# MSLab2
 
 This lab aims to build your first Virtual reality (VR) app.
 
