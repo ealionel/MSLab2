@@ -1,0 +1,14 @@
+{
+  "name": "MSLab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ealionel/MSLab2.git",
+  "author": "Lionel EA <ealionel3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server ./aframe"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
